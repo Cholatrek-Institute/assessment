@@ -1,0 +1,12 @@
+.errorMessage {
+  color: crimson;
+  font-size: 13px;
+}
+
+.message {
+  padding: 5px;
+  font-size: 14px;
+  background-color: aliceblue;
+  position: relative;
+  z-index: 1;
+}
